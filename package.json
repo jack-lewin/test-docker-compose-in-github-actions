@@ -1,0 +1,22 @@
+{
+  "name": "test-docker-compose-in-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack-lewin/test-docker-compose-in-github-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jack-lewin/test-docker-compose-in-github-actions/issues"
+  },
+  "homepage": "https://github.com/jack-lewin/test-docker-compose-in-github-actions#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
